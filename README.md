@@ -17,7 +17,7 @@ A responsive product management dashboard built using React and Tailwind CSS.
 - JavaScript
 
 ## Live Demo
-(https://vercel.com/harshverma2911s-projects/product-manager-sl/HGZFVvJaPCYhsw64XG1UUwMWUiBk)
+(https://product-manager-sl.vercel.app/)
 
 ## Setup
 ```bash
